@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rishika.shivva/Desktop/TAMLEP/mlflow/mlruns/221170795374830744/e3429df2ef9c42ef8f5eac2a14dd3141/artifacts
+end_time: 1688626306625
+entry_point_name: ''
+experiment_id: '221170795374830744'
+lifecycle_stage: active
+run_id: e3429df2ef9c42ef8f5eac2a14dd3141
+run_name: bittersweet-wren-229
+run_uuid: e3429df2ef9c42ef8f5eac2a14dd3141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688626284896
+status: 3
+tags: []
+user_id: rishika.shivva
